@@ -41,6 +41,7 @@ define(function(require, exports, module) {
             // 初始化元素的即时编辑
             Editable(this.$el.find('[task_list_title="1"]'), {
                 saved: function(data) {
+
                     // 数据有变化时
                     self.model.save({title: data});
                     self.render();

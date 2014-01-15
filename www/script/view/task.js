@@ -30,6 +30,7 @@ define(function(require, exports, module) {
         render: function() {
 
             this.$el.html(Template(this.model));
+
             var self = this;
             // 初始化元素的即时编辑
             Editable(this.$el.find('[task_detail="1"]'), {
