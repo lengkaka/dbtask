@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>Tasks</title>
+        <link rel="stylesheet" href="www/assert/css/tasks.css"/>
+        <link rel="stylesheet" href="www/assert/css/bootstrap.css"/>
+
+        <!-- 由于requirejs是把所有require的文件全部加载后立即执行，所以每个文件都需要require('backbone')，很麻烦，就写在这了 -->
+        <script type="text/javascript" src="www/script/lib/jquery/jquery.js"></script>
+        <script type="text/javascript" src="www/script/lib/underscore/underscore.js"></script>
+        <script type="text/javascript" src="www/script/lib/backbone/backbone.js"></script>
+        <script type="text/javascript" src="www/script/lib/backbone/backbone.localStorage.js"></script>
+        <script type="text/javascript" data-main="www/script/main/main" src="www/script/lib/require/require.js"></script>
+    </head>
+
+    <body>
+        <div id="app">
+        </div>
+    </body>
+</html>

@@ -1,0 +1,2976 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"l",
+				"listModel"
+			],
+			[
+				"s",
+				"save"
+			],
+			[
+				"ren",
+				"renderTasks"
+			],
+			[
+				"ta",
+				"tasks"
+			],
+			[
+				"fo",
+				"focus"
+			],
+			[
+				"task",
+				"task"
+			],
+			[
+				"edi",
+				"edit_value_element"
+			],
+			[
+				"up",
+				"updateViewAfterDeleteOrAddItem"
+			],
+			[
+				"de",
+				"delete"
+			],
+			[
+				"li",
+				"limit"
+			],
+			[
+				"com",
+				"comments"
+			],
+			[
+				"item",
+				"itemId"
+			],
+			[
+				"ite",
+				"itemId"
+			],
+			[
+				"que",
+				"queryValues"
+			],
+			[
+				"comm",
+				"comment_id"
+			],
+			[
+				"co",
+				"collection"
+			],
+			[
+				"re",
+				"ready"
+			],
+			[
+				"mo",
+				"model"
+			],
+			[
+				"it",
+				"itemModel"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"w",
+				"wrapper"
+			],
+			[
+				"mod",
+				"mode"
+			],
+			[
+				"f",
+				"false"
+			],
+			[
+				"get",
+				"get	Get Elements"
+			],
+			[
+				"con",
+				"content_id"
+			],
+			[
+				"vi",
+				"viewMode"
+			],
+			[
+				"reu",
+				"return"
+			],
+			[
+				"ref",
+				"ref"
+			],
+			[
+				"show",
+				"showItemTasks"
+			],
+			[
+				"sho",
+				"showItemTasks"
+			],
+			[
+				"tak",
+				"task_id"
+			],
+			[
+				"hb",
+				"hb_task_status"
+			],
+			[
+				"app",
+				"append"
+			],
+			[
+				"at",
+				"attr"
+			],
+			[
+				"tru",
+				"true"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"tas",
+				"taskList"
+			],
+			[
+				"fi",
+				"find"
+			],
+			[
+				"tri",
+				"triggerCollection"
+			],
+			[
+				"rou",
+				"routeInfo"
+			],
+			[
+				"ro",
+				"routeInfo"
+			],
+			[
+				"me",
+				"mergeRouteInfo"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"is_s",
+				"is_string"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"array",
+				"array_fill"
+			],
+			[
+				"jum",
+				"jumpRouteInfo"
+			],
+			[
+				"u",
+				"url"
+			],
+			[
+				"url",
+				"urlWithParams"
+			],
+			[
+				"ur",
+				"url"
+			],
+			[
+				"lis",
+				"listenToOnce"
+			],
+			[
+				"pan",
+				"panel"
+			],
+			[
+				"curI",
+				"curShowItemId"
+			],
+			[
+				"cur",
+				"curItemsNum"
+			],
+			[
+				"tr",
+				"true"
+			],
+			[
+				"cu",
+				"curShowItemId"
+			],
+			[
+				"pane",
+				"panel_content"
+			],
+			[
+				"pa",
+				"params"
+			],
+			[
+				"api",
+				"apix"
+			],
+			[
+				"array_m",
+				"array_merge"
+			],
+			[
+				"ser",
+				"server"
+			],
+			[
+				"ju",
+				"jumpRouteInfo"
+			],
+			[
+				"so",
+				"sort_by"
+			],
+			[
+				"dele",
+				"delegate"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"pos",
+				"post"
+			],
+			[
+				"iT",
+				"item_id"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"p",
+				"panel"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"na",
+				"navigate"
+			],
+			[
+				"qu",
+				"queryValues"
+			],
+			[
+				"conten",
+				"contentType"
+			],
+			[
+				"content",
+				"content_type"
+			],
+			[
+				"ex",
+				"exports"
+			],
+			[
+				"to",
+				"toggle"
+			],
+			[
+				"ad",
+				"adjust"
+			],
+			[
+				"no",
+				"normal_height"
+			],
+			[
+				"is",
+				"isUndefined"
+			],
+			[
+				"saveto",
+				"saveToWorkspace"
+			],
+			[
+				"view",
+				"viewModel"
+			],
+			[
+				"create",
+				"createView"
+			],
+			[
+				"full",
+				"full_display"
+			],
+			[
+				"cont",
+				"contents"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"sort",
+				"sort_desc"
+			],
+			[
+				"is_n",
+				"is_numeric"
+			],
+			[
+				"ac",
+				"action"
+			],
+			[
+				"ran",
+				"range_html"
+			],
+			[
+				"h",
+				"html"
+			],
+			[
+				"v",
+				"v_id"
+			],
+			[
+				"fil",
+				"filter_values_html"
+			],
+			[
+				"da",
+				"data_id"
+			],
+			[
+				"fiel",
+				"field_values"
+			],
+			[
+				"spa",
+				"space_id"
+			],
+			[
+				"al",
+				"all_by_date_view"
+			],
+			[
+				"ap",
+				"appModel"
+			],
+			[
+				"appM",
+				"appModel"
+			],
+			[
+				"a",
+				"attributes"
+			],
+			[
+				"is_a",
+				"is_array"
+			],
+			[
+				"fie",
+				"field_value"
+			],
+			[
+				"ind",
+				"indexOf"
+			],
+			[
+				"par",
+				"parseFloat"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"o",
+				"ori_views"
+			],
+			[
+				"rem",
+				"remove"
+			],
+			[
+				"cre",
+				"create_on"
+			],
+			[
+				"cr",
+				"created_on"
+			],
+			[
+				"cl",
+				"cleanup"
+			],
+			[
+				"appf",
+				"appFieldValues"
+			],
+			[
+				"VA",
+				"values"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"remo",
+				"removeClass"
+			],
+			[
+				"view_op",
+				"view_options_item"
+			],
+			[
+				"acti",
+				"active"
+			],
+			[
+				"ext",
+				"external_id"
+			],
+			[
+				"la",
+				"lastView"
+			],
+			[
+				"lo",
+				"location"
+			],
+			[
+				"data",
+				"data_id"
+			],
+			[
+				"che",
+				"checkFieldIsRange"
+			],
+			[
+				"field",
+				"field_id"
+			],
+			[
+				"ch",
+				"checkFieldIsMultiSelect"
+			],
+			[
+				"sele",
+				"select_field_type"
+			],
+			[
+				"filter_f",
+				"filter_field_value"
+			],
+			[
+				"pro",
+				"progress"
+			],
+			[
+				"t",
+				"to"
+			],
+			[
+				"filt",
+				"filters_html"
+			],
+			[
+				"i",
+				"if	if"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "www/script/view/app.js",
+			"settings":
+			{
+				"buffer_size": 1737,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/script/view/list.js",
+			"settings":
+			{
+				"buffer_size": 2935,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/script/view/task.js",
+			"settings":
+			{
+				"buffer_size": 1938,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/script/component/editable.js",
+			"settings":
+			{
+				"buffer_size": 3084,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/script/view/home.js",
+			"settings":
+			{
+				"buffer_size": 658,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/script/collection/TaskListCollection.js",
+			"settings":
+			{
+				"buffer_size": 777,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "/**\n * view_helper\n *\n *    作者: 付建宇 (jerray@huoban.com)\n * 创建时间: 2013-10-14 14:20:30\n * 修改记录:\n *\n * $Id: task.sublime-workspace 298 2014-01-15 06:53:01Z wangjia $\n */\ndefine(['handlebars'], function(Handlebars) {\n\n    return (function(){\n\n        var _this = this;\n\n        /**\n         * @param string template_string 模板字符串\n         * @return function\n         */\n        _this.compile = function(template_string) {\n            var template = Handlebars.compile(template_string);\n            return function(view, partials) {\n                var data = _.extend({}, view);\n                return template(data, partials);\n            };\n        };\n\n        /**\n         * 扩展到模板数据中的方法\n         */\n        var helpers = {\n\n        /**\n        * {{#compare}}...{{/compare}}\n        *\n        * @credit: OOCSS\n        * @param left value\n        * @param operator The operator, must be between quotes \">\", \"=\", \"<=\", etc...\n        * @param right value\n        * @param options option object sent by handlebars\n        * @return {String} formatted html\n        *\n        * @example:\n        *   {{#compare unicorns \"<\" ponies}}\n        *     I knew it, unicorns are just low-quality ponies!\n        *   {{/compare}}\n        *\n        *   {{#compare value \">=\" 10}}\n        *     The value is greater or equal than 10\n        *     {{else}}\n        *     The value is lower than 10\n        *   {{/compare}}\n        */\n        compare: function(left, operator, right, options) {\n        /*jshint eqeqeq: false*/\n\n        if (arguments.length < 3) {\n          throw new Error('Handlerbars Helper \"compare\" needs 2 parameters');\n        }\n\n        if (options === undefined) {\n          options = right;\n          right = operator;\n          operator = '===';\n        }\n\n        var operators = {\n          '==':     function(l, r) {return l == r; },\n          '===':    function(l, r) {return l === r; },\n          '!=':     function(l, r) {return l != r; },\n          '!==':    function(l, r) {return l !== r; },\n          '<':      function(l, r) {return l < r; },\n          '>':      function(l, r) {return l > r; },\n          '<=':     function(l, r) {return l <= r; },\n          '>=':     function(l, r) {return l >= r; },\n          'typeof': function(l, r) {return typeof l == r; }\n        };\n\n        if (!operators[operator]) {\n          throw new Error('Handlerbars Helper \"compare\" doesn\\'t know the operator ' + operator);\n        }\n\n        var result = operators[operator](left, right);\n\n        if (result) {\n          return options.fn(this);\n        } else {\n          return options.inverse(this);\n        }\n        }\n      }\n\n        return _this;\n    })();\n});\n",
+			"file": "www/script/lib/view_helper.js",
+			"file_size": 2906,
+			"file_write_time": 1386903416000000,
+			"settings":
+			{
+				"buffer_size": 2666,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 911,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/template/listpanel.tpl",
+			"settings":
+			{
+				"buffer_size": 594,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/template/task.tpl",
+			"settings":
+			{
+				"buffer_size": 391,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/assert/css/tasks.css",
+			"settings":
+			{
+				"buffer_size": 4099,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/script/lib/backbone/backbone.localStorage.js",
+			"settings":
+			{
+				"buffer_size": 5702,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/lib/jquery/1.8.3/jquery-colresizer.js",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/view/company_user/workspace/app_item_edit.js",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/src/include/Helper/StaticCompile.php",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/view/company_user/workspace/app_item_detail.js",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/lib/handlebars/1.0.0/handlebars.js",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/template/huoban/company_user/workspace/app_item_list.tpl",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/template/huoban/company_user/workspace/app_item.tpl",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/src/include/Huoban/Backend/Tool/StaticCompile.php",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/src/config/huoban/model.php",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/src/config/huoban/api.php",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/view/company_user/base.js",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/view/company_user/network.js",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/template/huoban/company_user/workspace/app_item_detail.tpl",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/router/company_user.js",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/bootstrap/company_user/main.js",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/view/company_user/root.js",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/component/comment.js",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/view/company_user/workspace/home_widget_list.js",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/view/company_user/task/detail.js",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/view/company_user/task/list.js",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/view/company_user/workspace/app_main_list.js",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/view/company_user/workspace/app_item_detail_view.js",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/view/company_user/calendar.js",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/lib/backbone/1.0.0/BaseEvents.js",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/lib/core.js",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/collection/notification.js",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/vendors/JPGraph/barcode/demoapp/index.html",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/lib/cache.js",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/lib/page.js",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/src/config/route/huoban_www.php",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/src/include/Huoban/Controller/CompanyUser/Item.php",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/src/include/Huoban/Controller/CompanyUser/Comment.php",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/template/huoban/company_user/workspace/app_item_comment.tpl",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/src/include/Huoban/Controller/CompanyUser/Model/Item.php",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/template/huoban/company_user/workspace/app_item_detail_view.tpl",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/template/huoban/company_user/task/detail.tpl",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/template/huoban/company_user/workspace/app_widget_header.tpl",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/view/company_user/workspace/app_sidebar.js",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/view/company_user/workspace/home.js",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/template/huoban/company_user/workspace/app_item_detail_task.tpl",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/src/include/Huoban/APIClient/models/HuobanTask.php",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/template/huoban/company_user/workspace/app_item_edit.tpl",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/view/company_user/workspace/app_main_panel.js",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/view/company_user/workspace/app_item_detail_view_task.js",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/view/company_user/workspace/app_item_detail_view_item.js",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/component/editable.js",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/view/company_user/workspace/app_main.js",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/view/company_user/workspace/app.js",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/lib/view_helper.js",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/src/include/Huoban/APIClient/models/HuobanItem.php",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/component/task.js",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/src/include/Huoban/Model/Item.php",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/src/include/Huoban/Controller/CompanyUser/Model/Application.php",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/src/include/Huoban/Controller/CompanyUser/Index.php",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/component/preview_panel.js",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/view/company_user/workspace/base.js",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/view/company_user/task.js",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/model/panel_content.js",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/src/include/Huoban/Controller/CompanyUser/Model/Task.php",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/template/component/comment/form.tpl",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/template/huoban/company_user/task/detail_main.tpl",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/huoban_design/huoban/assets/css/common.css",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/styles/css/common.css",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/styles/css/common.less",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/collection/app_filter.js",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/view/company_user/notification.js",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/lib/jquery/1.8.3/jquery-slideshow.js",
+		"/Users/wangjia/Library/Application Support/Sublime Text 2/Packages/User/Shell Turtlestein.sublime-settings",
+		"/Users/wangjia/Library/Application Support/Sublime Text 2/Packages/Shell Turtlestein/Shell Turtlestein.sublime-settings",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/src/include/Huoban/Controller/CompanyUser/Abstract.php",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/src/include/Huoban/Controller/CompanyUser/Model/Abstract.php",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/src/include/Huoban/API/CompanyUser/Abstract.php",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_api/index.php",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/src/include/Huoban/Controller/CompanyUser/Model/Content.php",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/template/huoban/company_user/workspace/app_main_panel_pop_menu.tpl",
+		"/Library/WebServer/Documents/html/framework/Bootstrap.php",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/template/huoban/company_user/application/layer_app_manage.tpl",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/lib/jquery/1.8.3/jquery-parseParams.js",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/lib/jquery/1.8.3/jquery-ui-selectmenu.js",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/lib/jquery/1.8.3/jquery-md5.js",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/model/app_content_detail.js",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/view/company_user/notification/notification_list.js",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/lib/util/url.js",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/model/app_content_detial.js",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/model/task.js",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/model/notification.js",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/lib/screenfull.js",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/styles/css/app.css",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/huoban_design/huoban/assets/css/app.css",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/view/company_user/network/sidebar.js",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/view/company_user/workspace/setting_member.js",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/component/dialog.js",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/template/huoban/company_user/workspace/app_main_panel_filters/filter_app.tpl",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/src/include/Huoban/Controller/CompanyUser/Widgets.php",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/src/include/Huoban/Controller/CompanyUser/View.php",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/huoban_design/huoban/notification.php",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/src/include/Huoban/Controller/CompanyUser/Model/View.php",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/src/include/Huoban/Controller/CompanyUser/Model/Widget.php",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/src/templates/huoban/company_user/application/item.tpl",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/template/huoban/company_user/workspace/app_main_panel_filters/filter_range.tpl",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/template/huoban/company_user/workspace/app_main_panel_filters/filter_date.tpl",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/template/huoban/company_user/workspace/app_main_panel.tpl",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/huoban_design/huoban/mod_popmenu.php",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/template/huoban/company_user/workspace/app_main_panel_filters/filter_overview_item.tpl",
+		"/Users/wangjia/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/huoban_design/huoban/app_list_table.php",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/www/huoban_static/huoban/scripts/template/huoban/company_user/application/item_list.tpl",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/src/include/Huoban/Model/View.php",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/Company/Huoban/v20131104/app/src/include/Huoban/APIClient/models/HuobanView.php",
+		"/Volumes/wangjiaMeHarddisk/Users/macbookpro/RootDir/Work/workspace/ACM/a.c",
+		"/private/var/folders/q7/63hy0dk94976dn7xf9by3p5r0000gn/T/com.blackpixel.versions/detail.rev5754.tpl",
+		"/Library/WebServer/Documents/html/framework/Config/route/web.php",
+		"/Library/WebServer/Documents/html/framework/Route/Route.php",
+		"/Library/WebServer/Documents/html/framework/Route/Abstract.php",
+		"/Library/WebServer/Documents/html/framework/Route.php",
+		"/Library/WebServer/Documents/html/framework/Response.php",
+		"/Library/WebServer/Documents/html/framework/Request.php",
+		"/Library/WebServer/Documents/html/framework/Bootstrap/Web.php",
+		"/Library/WebServer/Documents/html/index.php",
+		"/Library/WebServer/Documents/html/framework/Front.php",
+		"/Library/WebServer/Documents/html/framework/route/web.php",
+		"/Library/WebServer/Documents/html/framework/Config.php",
+		"/Library/WebServer/Documents/html/framework/Controller.php",
+		"/Library/WebServer/Documents/html/framework/Route.Route.php",
+		"/Library/WebServer/Documents/html/framework/Bootstrap/Cli.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Template",
+			"li",
+			"TaskView",
+			"updateOnEnter",
+			"options",
+			"save",
+			"sava",
+			"hb_field_wrapper",
+			"_get_edit_wrapper",
+			"changeView",
+			"view_id",
+			"Editable",
+			"_handle_text",
+			"_handle_number",
+			"Editable",
+			"renderItems",
+			"listenTo",
+			"options",
+			"Task",
+			"CreateTaskComponent",
+			"_parse_class_constant",
+			"_parse_constant_map",
+			"_compile_jsTemplate",
+			"view",
+			"json",
+			"handlebars",
+			"handle",
+			"renderListWrapper",
+			"data_list",
+			"renderListWrapper",
+			"updateViewAfterDeleteItem",
+			"change:delete_item",
+			"showDeleteAction",
+			"itemNew",
+			"ItemListTemplate",
+			"makeTableColumnsResizable",
+			"appendItems",
+			"makeTableColumnsResizable",
+			"width",
+			"this.options.collection",
+			"itemNew",
+			"updateViewAfterAddItem",
+			"ViewHelper",
+			"view_help",
+			"PublishItemTemplate",
+			"status",
+			"arguments",
+			"Backbone",
+			"css",
+			"modify",
+			"ItemCommentTemplate",
+			"process_item",
+			"field",
+			"update_field",
+			"pad_empty_field",
+			"process_item",
+			"ItemModel",
+			"HuobanItem::get",
+			"format_value",
+			"span",
+			"edit",
+			"                this.collection.on('ready', this.updateEvents, this);\ntrigger",
+			"trigger",
+			"submitForm",
+			"show:item",
+			"panel",
+			"viewMode",
+			"panel",
+			"independent",
+			"triggerCollection",
+			"change:modify_fields",
+			"ItemTemplate",
+			"renderModifiedItem",
+			"options.collection",
+			"update:item",
+			"change:modify_fields",
+			"panel",
+			"independent_detail",
+			"ItemEditView",
+			"panel",
+			"independent",
+			"ItemDetailTemplate",
+			"ItemDetailView",
+			"panel",
+			"independent",
+			"TaskDetailTemplate",
+			"TaskDetailMainTemplate",
+			"collectionModel",
+			"如果是panel模式",
+			"TaskDetailView",
+			"PreviewPanel",
+			"_bindTaskChangeEventListener",
+			"itemModel",
+			"SideHeaderView",
+			"AppSidebarView",
+			"finishItemTask",
+			"gl",
+			"modify",
+			"_getPostData",
+			"CreateTaskComponent",
+			"table",
+			"CreateTaskComponent",
+			"TODO",
+			"self",
+			"submit:done",
+			"Comment",
+			"hb_comment_toolbar_submit",
+			"ItemCommentTemplate",
+			"trigger",
+			"file",
+			"updateViewAfterAddItem",
+			"ItemTemplate",
+			"appendItems",
+			"onClose",
+			"ItemListTemplate",
+			"ItemEditView",
+			"itemModel",
+			"updateViewAfterAddItem",
+			"change:modify_fields",
+			"showSelectedTaskDetail",
+			"detail",
+			"showSelectedItemDetail",
+			"renderSingleTaskDetail",
+			"detail",
+			"showCurrentTaskDetail",
+			"ItemDetailView",
+			"task",
+			"item"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"curShowTaskId\n",
+			"http://www.huoban.com/fonts\n",
+			"displayCreateNewViewDialog\n",
+			"getFilterFieldValue\n",
+			"get_filter_field_value_data_id_from_filter_value\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "www/script/view/app.js",
+					"settings":
+					{
+						"buffer_size": 1737,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1423,
+								1423
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 266.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "www/script/view/list.js",
+					"settings":
+					{
+						"buffer_size": 2935,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2721,
+								2721
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "www/script/view/task.js",
+					"settings":
+					{
+						"buffer_size": 1938,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								689,
+								689
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "www/script/component/editable.js",
+					"settings":
+					{
+						"buffer_size": 3084,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1432,
+								1432
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 587.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "www/script/view/home.js",
+					"settings":
+					{
+						"buffer_size": 658,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								234,
+								234
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "www/script/collection/TaskListCollection.js",
+					"settings":
+					{
+						"buffer_size": 777,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								452,
+								452
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "www/script/lib/view_helper.js",
+					"settings":
+					{
+						"buffer_size": 2666,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								641,
+								641
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 858.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 7,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 911,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								238,
+								238
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "www/template/listpanel.tpl",
+					"settings":
+					{
+						"buffer_size": 594,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								427,
+								427
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "www/template/task.tpl",
+					"settings":
+					{
+						"buffer_size": 391,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								391,
+								391
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "www/assert/css/tasks.css",
+					"settings":
+					{
+						"buffer_size": 4099,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1523,
+								1523
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "www/script/lib/backbone/backbone.localStorage.js",
+					"settings":
+					{
+						"buffer_size": 5702,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1800,
+								1800
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"incomplete_sync": null,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"remote_loading": false,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 357.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.45656986973,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"view",
+				"tasks/www/script/lib/view_helper.js"
+			],
+			[
+				"listc",
+				"www/script/collection/TaskListCollection.js"
+			],
+			[
+				"back",
+				"www/script/lib/backbone/backbone.localStorage.js"
+			],
+			[
+				"ho",
+				"www/script/view/home.js"
+			],
+			[
+				"task.tpl",
+				"www/template/task.tpl"
+			],
+			[
+				"tasks.css",
+				"www/assert/css/tasks.css"
+			],
+			[
+				"edi",
+				"www/script/component/editable.js"
+			],
+			[
+				"task.js",
+				"www/script/view/task.js"
+			],
+			[
+				"list",
+				"www/template/listpanel.tpl"
+			],
+			[
+				"app.js",
+				"www/script/view/app.js"
+			],
+			[
+				"app_item_det",
+				"v20131104/app/www/huoban_static/huoban/scripts/template/huoban/company_user/workspace/app_item_detail.tpl"
+			],
+			[
+				"app_main.tpl",
+				"v20131104/app/www/huoban_static/huoban/scripts/template/huoban/company_user/workspace/app_main.tpl"
+			],
+			[
+				"app_main.js",
+				"v20131104/app/www/huoban_static/huoban/scripts/view/company_user/workspace/app_main.js"
+			],
+			[
+				"base.js",
+				"v20131104/app/www/huoban_static/huoban/scripts/view/company_user/base.js"
+			],
+			[
+				"app_item_detail_task",
+				"v20131104/app/www/huoban_static/huoban/scripts/template/huoban/company_user/workspace/app_item_detail_task.tpl"
+			],
+			[
+				"app_item",
+				"v20131104/app/www/huoban_static/huoban/scripts/view/company_user/workspace/app_item_detail.js"
+			],
+			[
+				"handlebar",
+				"v20131104/app/www/huoban_static/huoban/scripts/lib/handlebars/1.0.0/handlebars.js"
+			],
+			[
+				"static",
+				"v20131104/app/src/include/Helper/StaticCompile.php"
+			],
+			[
+				"view_hel",
+				"v20131104/app/www/huoban_static/huoban/scripts/lib/view_helper.js"
+			],
+			[
+				"main.js",
+				"v20131104/app/www/huoban_static/huoban/scripts/bootstrap/company_user/main.js"
+			],
+			[
+				"taticcompile.php",
+				"v20131104/app/src/include/Helper/StaticCompile.php"
+			],
+			[
+				"jquery-colresizer.js",
+				"v20131104/app/www/huoban_static/huoban/scripts/lib/jquery/1.8.3/jquery-colresizer.js"
+			],
+			[
+				"app_item_detail.js",
+				"v20131104/app/www/huoban_static/huoban/scripts/view/company_user/workspace/app_item_detail.js"
+			],
+			[
+				"app_item_list.tpl",
+				"v20131104/app/www/huoban_static/huoban/scripts/template/huoban/company_user/workspace/app_item_list.tpl"
+			],
+			[
+				"app_item.tpl",
+				"v20131104/app/www/huoban_static/huoban/scripts/template/huoban/company_user/workspace/app_item.tpl"
+			],
+			[
+				"app_item_ed",
+				"v20131104/app/www/huoban_static/huoban/scripts/view/company_user/workspace/app_item_edit.js"
+			],
+			[
+				"app_main_list",
+				"v20131104/app/www/huoban_static/huoban/scripts/view/company_user/workspace/app_main_list.js"
+			],
+			[
+				"app_item_e",
+				"v20131104/app/www/huoban_static/huoban/scripts/view/company_user/workspace/app_item_edit.js"
+			],
+			[
+				"root",
+				"v20131104/app/www/huoban_static/huoban/scripts/view/company_user/root.js"
+			],
+			[
+				"compan",
+				"v20131104/app/www/huoban_static/huoban/scripts/router/company_user.js"
+			],
+			[
+				"view_he",
+				"v20131104/app/www/huoban_static/huoban/scripts/lib/view_helper.js"
+			],
+			[
+				"app_main_panel.js",
+				"v20131104/app/www/huoban_static/huoban/scripts/view/company_user/workspace/app_main_panel.js"
+			],
+			[
+				"home_wi",
+				"v20131104/app/www/huoban_static/huoban/scripts/view/company_user/workspace/home_widget_list.js"
+			],
+			[
+				"task/det",
+				"v20131104/app/www/huoban_static/huoban/scripts/view/company_user/task/detail.js"
+			],
+			[
+				"app_item_detail",
+				"v20131104/app/www/huoban_static/huoban/scripts/view/company_user/workspace/app_item_detail.js"
+			],
+			[
+				"comment.js",
+				"v20131104/app/www/huoban_static/huoban/scripts/component/comment.js"
+			],
+			[
+				"app_item_detail.tpl",
+				"v20131104/app/www/huoban_static/huoban/scripts/template/huoban/company_user/workspace/app_item_detail.tpl"
+			],
+			[
+				"baseevents",
+				"v20131104/app/www/huoban_static/huoban/scripts/lib/backbone/1.0.0/BaseEvents.js"
+			],
+			[
+				"root.js",
+				"v20131104/app/www/huoban_static/huoban/scripts/view/company_user/root.js"
+			],
+			[
+				"index.h",
+				"v20131104/vendors/JPGraph/barcode/demoapp/index.html"
+			],
+			[
+				"cache.js",
+				"v20131104/app/www/huoban_static/huoban/scripts/lib/cache.js"
+			],
+			[
+				"core.js",
+				"v20131104/app/www/huoban_static/huoban/scripts/lib/core.js"
+			],
+			[
+				"page.js",
+				"v20131104/app/www/huoban_static/huoban/scripts/lib/page.js"
+			],
+			[
+				"notification.js",
+				"v20131104/app/www/huoban_static/huoban/scripts/collection/notification.js"
+			],
+			[
+				"model.php",
+				"v20131104/app/src/config/huoban/model.php"
+			],
+			[
+				"netwo",
+				"v20131104/app/www/huoban_static/huoban/scripts/view/company_user/network.js"
+			],
+			[
+				"api.php",
+				"v20131104/app/src/config/huoban/api.php"
+			],
+			[
+				"task/list",
+				"v20131104/app/www/huoban_static/huoban/scripts/view/company_user/task/list.js"
+			],
+			[
+				"app_main_list.js",
+				"v20131104/app/www/huoban_static/huoban/scripts/view/company_user/workspace/app_main_list.js"
+			],
+			[
+				"calen",
+				"v20131104/app/www/huoban_static/huoban/scripts/view/company_user/calendar.js"
+			],
+			[
+				"company_user.js",
+				"v20131104/app/www/huoban_static/huoban/scripts/router/company_user.js"
+			],
+			[
+				"item.pp",
+				"v20131104/app/src/include/Huoban/Controller/CompanyUser/Item.php"
+			],
+			[
+				"comment.php",
+				"v20131104/app/src/include/Huoban/Controller/CompanyUser/Comment.php"
+			],
+			[
+				"app_item_comment.tpl",
+				"v20131104/app/www/huoban_static/huoban/scripts/template/huoban/company_user/workspace/app_item_comment.tpl"
+			],
+			[
+				"huoban_www.php",
+				"v20131104/app/src/config/route/huoban_www.php"
+			],
+			[
+				"model/item.php",
+				"v20131104/app/src/include/Huoban/Controller/CompanyUser/Model/Item.php"
+			],
+			[
+				"item.php",
+				"v20131104/app/src/include/Huoban/Controller/CompanyUser/Item.php"
+			],
+			[
+				"calendar.js",
+				"v20131104/app/www/huoban_static/huoban/scripts/view/company_user/calendar.js"
+			],
+			[
+				"task/detail.js",
+				"v20131104/app/www/huoban_static/huoban/scripts/view/company_user/task/detail.js"
+			],
+			[
+				"app_item_edi",
+				"v20131104/app/www/huoban_static/huoban/scripts/template/huoban/company_user/workspace/app_item_edit.tpl"
+			],
+			[
+				"huobantask",
+				"v20131104/app/src/include/Huoban/APIClient/models/HuobanTask.php"
+			],
+			[
+				"app_item_edit.js",
+				"v20131104/app/www/huoban_static/huoban/scripts/view/company_user/workspace/app_item_edit.js"
+			],
+			[
+				"app_item_detail_view.tp",
+				"v20131104/app/www/huoban_static/huoban/scripts/template/huoban/company_user/workspace/app_item_detail_view.tpl"
+			],
+			[
+				"task/detail.tpl",
+				"v20131104/app/www/huoban_static/huoban/scripts/template/huoban/company_user/task/detail.tpl"
+			],
+			[
+				"task/detail",
+				"v20131104/app/www/huoban_static/huoban/scripts/view/company_user/task/detail.js"
+			],
+			[
+				"editable.js",
+				"v20131104/app/www/huoban_static/huoban/scripts/component/editable.js"
+			],
+			[
+				"app_widget_header",
+				"v20131104/app/www/huoban_static/huoban/scripts/template/huoban/company_user/workspace/app_widget_header.tpl"
+			],
+			[
+				"app_sidebar.js",
+				"v20131104/app/www/huoban_static/huoban/scripts/view/company_user/workspace/app_sidebar.js"
+			],
+			[
+				"home.js",
+				"v20131104/app/www/huoban_static/huoban/scripts/view/company_user/workspace/home.js"
+			],
+			[
+				"task/",
+				"v20131104/app/www/huoban_static/huoban/scripts/view/company_user/task/detail.js"
+			],
+			[
+				"huobanitem.php",
+				"v20131104/app/src/include/Huoban/APIClient/models/HuobanItem.php"
+			],
+			[
+				"app_item_comment",
+				"v20131104/app/www/huoban_static/huoban/scripts/template/huoban/company_user/workspace/app_item_comment.tpl"
+			],
+			[
+				"cale",
+				"v20131104/app/www/huoban_static/huoban/scripts/view/company_user/calendar.js"
+			],
+			[
+				"home_w",
+				"v20131104/app/www/huoban_static/huoban/scripts/view/company_user/workspace/home_widget_list.js"
+			],
+			[
+				"list.js",
+				"v20131104/app/www/huoban_static/huoban/scripts/view/company_user/task/list.js"
+			],
+			[
+				"app_item_list",
+				"v20131104/app/www/huoban_static/huoban/scripts/template/huoban/company_user/workspace/app_item_list.tpl"
+			],
+			[
+				"prep",
+				"v20131104/app/www/huoban_static/huoban/scripts/component/preview_panel.js"
+			],
+			[
+				"home_widget_list.js",
+				"v20131104/app/www/huoban_static/huoban/scripts/view/company_user/workspace/home_widget_list.js"
+			],
+			[
+				"application.php",
+				"v20131104/app/src/include/Huoban/Controller/CompanyUser/Model/Application.php"
+			],
+			[
+				"index.php",
+				"v20131104/app/src/include/Huoban/Controller/CompanyUser/Index.php"
+			],
+			[
+				"pre",
+				"v20131104/app/www/huoban_static/huoban/scripts/component/preview_panel.js"
+			],
+			[
+				"view/task.js",
+				"v20131104/app/www/huoban_static/huoban/scripts/view/company_user/task.js"
+			],
+			[
+				"task/base.js",
+				"v20131104/app/www/huoban_static/huoban/scripts/view/company_user/workspace/base.js"
+			],
+			[
+				"panel",
+				"v20131104/app/www/huoban_static/huoban/scripts/model/panel_content.js"
+			],
+			[
+				"app_si",
+				"v20131104/app/www/huoban_static/huoban/scripts/view/company_user/workspace/app_sidebar.js"
+			],
+			[
+				"app_item_de",
+				"v20131104/app/www/huoban_static/huoban/scripts/template/huoban/company_user/workspace/app_item_detail.tpl"
+			],
+			[
+				"huoban_www",
+				"v20131104/app/src/config/route/huoban_www.php"
+			],
+			[
+				"task",
+				"v20131104/app/src/include/Huoban/Controller/CompanyUser/Model/Task.php"
+			],
+			[
+				"item",
+				"v20131104/app/src/include/Huoban/Controller/CompanyUser/Item.php"
+			],
+			[
+				"vie",
+				"v20131104/app/www/huoban_static/huoban/scripts/lib/view_helper.js"
+			],
+			[
+				"form.tpl",
+				"v20131104/app/www/huoban_static/huoban/scripts/template/component/comment/form.tpl"
+			],
+			[
+				"component/comment.js",
+				"v20131104/app/www/huoban_static/huoban/scripts/component/comment.js"
+			],
+			[
+				"app_item_edit.tpl",
+				"v20131104/app/www/huoban_static/huoban/scripts/template/huoban/company_user/workspace/app_item_edit.tpl"
+			],
+			[
+				"detail.tpl",
+				"v20131104/app/www/huoban_static/huoban/scripts/template/huoban/company_user/task/detail.tpl"
+			],
+			[
+				"detail_main.tpl",
+				"v20131104/app/www/huoban_static/huoban/scripts/template/huoban/company_user/task/detail_main.tpl"
+			],
+			[
+				"preview",
+				"v20131104/app/www/huoban_static/huoban/scripts/component/preview_panel.js"
+			],
+			[
+				"common.less",
+				"v20131104/app/www/huoban_static/huoban/styles/css/common.less"
+			],
+			[
+				"common.css",
+				"v20131104/app/www/huoban_static/huoban/styles/css/common.css"
+			],
+			[
+				"common",
+				"huoban/assets/css/common.css"
+			],
+			[
+				"detail",
+				"v20131104/app/www/huoban_static/huoban/scripts/view/company_user/task/detail.js"
+			],
+			[
+				"app_d",
+				"v20131104/app/www/huoban_static/huoban/scripts/view/company_user/workspace/app_item_detail.js"
+			],
+			[
+				"app_main_lis",
+				"v20131104/app/www/huoban_static/huoban/scripts/view/company_user/workspace/app_main_list.js"
+			],
+			[
+				"app_item_deta",
+				"v20131104/app/www/huoban_static/huoban/scripts/view/company_user/workspace/app_item_detail_view_task.js"
+			],
+			[
+				"jquery-slideshow",
+				"v20131104/app/www/huoban_static/huoban/scripts/lib/jquery/1.8.3/jquery-slideshow.js"
+			],
+			[
+				"prev",
+				"v20131104/app/www/huoban_static/huoban/scripts/component/preview_panel.js"
+			],
+			[
+				"app_fil",
+				"v20131104/app/www/huoban_static/huoban/scripts/collection/app_filter.js"
+			],
+			[
+				"abstract.php",
+				"v20131104/app/src/include/Huoban/Controller/CompanyUser/Abstract.php"
+			],
+			[
+				"abstr",
+				"v20131104/app/src/include/Huoban/API/CompanyUser/Abstract.php"
+			],
+			[
+				"model/ab",
+				"v20131104/app/src/include/Huoban/Controller/CompanyUser/Model/Abstract.php"
+			],
+			[
+				"inde",
+				"v20131104/app/www/huoban_api/index.php"
+			],
+			[
+				"",
+				"html/framework/Bootstrap.php"
+			],
+			[
+				"content.php",
+				"v20131104/app/src/include/Huoban/Controller/CompanyUser/Model/Content.php"
+			],
+			[
+				"huobanitem",
+				"v20131104/app/src/include/Huoban/APIClient/models/HuobanItem.php"
+			],
+			[
+				"app_main_pop",
+				"v20131104/app/www/huoban_static/huoban/scripts/template/huoban/company_user/workspace/app_main_panel_pop_menu.tpl"
+			],
+			[
+				"layer_app_manage.tpl",
+				"v20131104/app/www/huoban_static/huoban/scripts/template/huoban/company_user/application/layer_app_manage.tpl"
+			],
+			[
+				"app_sidebar",
+				"v20131104/app/www/huoban_static/huoban/scripts/view/company_user/workspace/app_sidebar.js"
+			],
+			[
+				"preview_panel.js",
+				"v20131104/app/www/huoban_static/huoban/scripts/component/preview_panel.js"
+			],
+			[
+				"jqu",
+				"v20131104/app/www/huoban_static/huoban/scripts/lib/jquery/1.8.3/jquery-ui-selectmenu.js"
+			],
+			[
+				"jquery",
+				"v20131104/app/www/huoban_static/huoban/scripts/lib/jquery/1.8.3/jquery-md5.js"
+			],
+			[
+				"jquery-pa",
+				"v20131104/app/www/huoban_static/huoban/scripts/lib/jquery/1.8.3/jquery-parseParams.js"
+			],
+			[
+				"view/base.js",
+				"v20131104/app/www/huoban_static/huoban/scripts/view/company_user/base.js"
+			],
+			[
+				"url.js",
+				"v20131104/app/www/huoban_static/huoban/scripts/lib/util/url.js"
+			],
+			[
+				"company",
+				"v20131104/app/www/huoban_static/huoban/scripts/router/company_user.js"
+			],
+			[
+				"app_content",
+				"v20131104/app/www/huoban_static/huoban/scripts/model/app_content_detail.js"
+			],
+			[
+				"model/noti",
+				"v20131104/app/www/huoban_static/huoban/scripts/model/notification.js"
+			],
+			[
+				"model/task.j",
+				"v20131104/app/www/huoban_static/huoban/scripts/model/task.js"
+			],
+			[
+				"model/app",
+				"v20131104/app/www/huoban_static/huoban/scripts/model/app_content_detial.js"
+			],
+			[
+				"model/app_",
+				"v20131104/app/www/huoban_static/huoban/scripts/model/app_content_detial.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 250.0,
+	"status_bar_visible": true
+}
