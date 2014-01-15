@@ -13,6 +13,8 @@ define(function(require, exports, module) {
 
         tagName: 'div',
 
+        className: 'task_list',
+
         events: {
             'keypress #new-task': 'createOnEnter',
             'click #clear-completed': 'clearCompleted',
