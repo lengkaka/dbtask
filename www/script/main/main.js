@@ -40,9 +40,9 @@ define(function(require, exports, module) {
     var Tasks = require('collection/TaskListCollection');
 
     $(function() {
-
         TASK.collection = new Tasks();
-        TASK.collection.fetch();
+       // TASK.collection.fetch();
+
 
         TASK.router = new Router();
         TASK.homeView = new HomeView();

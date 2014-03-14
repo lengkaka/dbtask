@@ -43,7 +43,6 @@ define(function(require, exports, module) {
             // 初始化元素的即时编辑
             Editable(this.$el.find('[task_list_title="1"]'), {
                 saved: function(data) {
-
                     // 数据有变化时
                     self.model.save({title: data});
                     self.render();
@@ -52,13 +51,11 @@ define(function(require, exports, module) {
         },
 
         renderTasks: function() {
-
             var tasks = this.model.get('tasks');
             if (_.isUndefined(tasks)) {
                 tasks = [];
                 this.model.set({tasks: tasks});
             }
-
             // 渲染任务列表
             _.each(tasks, this.addOne, this);
         },
@@ -87,7 +84,7 @@ define(function(require, exports, module) {
             }
 
             // 增加一个空得task
-            tasks.push({title: ''});
+            tasks.push({});
             this.model.save({tasks: tasks});
 
             this.$el.find('#task-list').html('');
