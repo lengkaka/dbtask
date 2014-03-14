@@ -15,7 +15,19 @@ body {
 }
 
 #app {
-    width: 100%;
+    width: 2000px;
+    height: 500px;
+}
+
+.task_list {
+	float: left;
+	width: 300px;
+	padding: 10px 10px 10px 10px;
+}
+
+.add_new_panel {
+	float: left;
+	padding: 10px 10px 10px 10px;
 }
 
 .listpanel {

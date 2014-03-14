@@ -13,6 +13,8 @@ define(function(require, exports, module) {
 
         tagName: 'div',
 
+        className: 'task_list',
+
         events: {
             'keypress #new-task': 'createOnEnter',
             'click #clear-completed': 'clearCompleted',
@@ -49,13 +51,11 @@ define(function(require, exports, module) {
         },
 
         renderTasks: function() {
-
             var tasks = this.model.get('tasks');
             if (_.isUndefined(tasks)) {
                 tasks = [];
                 this.model.set({tasks: tasks});
             }
-
             // 渲染任务列表
             _.each(tasks, this.addOne, this);
         },
@@ -84,7 +84,7 @@ define(function(require, exports, module) {
             }
 
             // 增加一个空得task
-            tasks.push({title: ''});
+            tasks.push({});
             this.model.save({tasks: tasks});
 
             this.$el.find('#task-list').html('');

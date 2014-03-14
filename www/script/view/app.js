@@ -11,7 +11,6 @@ define(function(require, exports, module) {
 
         tagName: 'div',
         className: 'app_task_lists',
-
         events: {
             'click #add_empty_panel': 'addEmptyTaskList'
         },
@@ -22,13 +21,11 @@ define(function(require, exports, module) {
             this.lists = TASK.collection;
             this.render();
 
-
             this.listenTo(this.lists, 'all', this.saveToLocalStorage);
             this.listenTo(this.lists, 'add', this.render);
         },
 
         render: function() {
-
             this.$el.html('');
             _.each(this.lists.models, this.renderTaskList, this);
             this.renderAddTaskListButton();
@@ -50,11 +47,7 @@ define(function(require, exports, module) {
          *
          */
         addEmptyTaskList: function() {
-            var listSetting = {
-                title: '点击输入内容',
-            };
-
-            var newTaskListModel = new TaskListModel({title: listSetting.title});
+            var newTaskListModel = new TaskListModel();
             this.lists.create(newTaskListModel);
         },
 
