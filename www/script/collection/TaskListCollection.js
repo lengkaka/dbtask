@@ -26,7 +26,11 @@ define(function(require, exports, module) {
         },
 
         save: function() {
-            this.localStorage.save();
+	    var self = this;
+	    _.each(this.models, function(model) {
+		self.localStorage.update(model);
+	    });
+            //this.localStorage.save();
         },
 
         comparator: 'order'

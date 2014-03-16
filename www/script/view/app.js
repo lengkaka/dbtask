@@ -49,6 +49,7 @@ define(function(require, exports, module) {
          */
         addEmptyTaskList: function() {
             var newTaskListModel = new TaskListModel();
+	    this.lists.localStorage.create(newTaskListModel);
             this.lists.create(newTaskListModel);
         },
 
@@ -61,6 +62,7 @@ define(function(require, exports, module) {
             var taskListTarget = this.lists.models[taskListTargetIndex];
 	    if (taskListTarget) {
 	    	this.lists.remove(taskListTarget);
+	    	this.lists.localStorage.destroy(taskListTarget);
  	    }
 
 	    this.render();
@@ -69,6 +71,8 @@ define(function(require, exports, module) {
         saveToLocalStorage: function() {
             // 同步到本地
             console.log('changed');
+            console.log(TASK.collection);
+	    TASK.collection.save();
         }
     });
 

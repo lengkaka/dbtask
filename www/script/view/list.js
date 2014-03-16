@@ -30,7 +30,6 @@ define(function(require, exports, module) {
         },
 
         render: function() {
-	    console.log(this.model.toJSON());
             this.$el.html(Template(this.model.toJSON()));
 
             this.input = this.$el.find('#new-task');
