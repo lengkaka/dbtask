@@ -68,7 +68,6 @@ define(function(require, exports, module) {
 
         saveToLocalStorage: function() {
             // 同步到本地
-            // TASK.collection.save();
             console.log('changed');
         }
     });

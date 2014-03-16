@@ -57,7 +57,7 @@ define(function(require, exports, module) {
         },
 
         addOne: function(task) {
-            var view = new TaskView({model: task});
+            var view = new TaskView({model: task, listModel: this.model});
             this.$el.find('#task-list').append(view.el);
         },
 
