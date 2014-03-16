@@ -1,9 +1,14 @@
 <div id="tasklist" class="panel panel-default">
 
     <div task_list_title="1" class="panel-heading">
+    	<button type="button" class="close" aria-hidden="true" style="margin-top: -3px">&times;</button>
         <div task_display_wrapper="1">
             <h3 task_display_value="1" class="panel-title">
-            {{#compare title.length ">" 0}}{{title}}{{else}}{{placeHolder}}{{/compare}}
+            {{#compare title.length ">" 0}}
+		{{title}}
+	    {{else}}
+		{{placeHolder}}
+	    {{/compare}}
             </h3>
         </div>
         <div task_editer_wrapper="1" style="display: none;">

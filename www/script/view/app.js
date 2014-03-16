@@ -12,7 +12,8 @@ define(function(require, exports, module) {
         tagName: 'div',
         className: 'app_task_lists',
         events: {
-            'click #add_empty_panel': 'addEmptyTaskList'
+            'click #add_empty_panel': 'addEmptyTaskList',
+	    'click .close': 'removeTaskList'
         },
 
         init: function() {
@@ -21,7 +22,7 @@ define(function(require, exports, module) {
             this.lists = TASK.collection;
             this.render();
 
-            this.listenTo(this.lists, 'all', this.saveToLocalStorage);
+            this.listenTo(this.lists, 'change', this.saveToLocalStorage);
             this.listenTo(this.lists, 'add', this.render);
         },
 
@@ -51,9 +52,24 @@ define(function(require, exports, module) {
             this.lists.create(newTaskListModel);
         },
 
+	removeTaskList: function(e) {
+	    var $target = this.$(e.currentTarget);
+	    var taskListTargetIndex = $target.parent().parent().parent().index();
+	    console.log(taskListTargetIndex);
+	    
+            // 删除 this.lists.models中对应的元素
+            var taskListTarget = this.lists.models[taskListTargetIndex];
+	    if (taskListTarget) {
+	    	this.lists.remove(taskListTarget);
+ 	    }
+
+	    this.render();
+	},
+
         saveToLocalStorage: function() {
             // 同步到本地
             // TASK.collection.save();
+            console.log('changed');
         }
     });
 

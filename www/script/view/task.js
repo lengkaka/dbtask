@@ -37,7 +37,6 @@ define(function(require, exports, module) {
                 saved: function(data) {
                     // 数据有变化时
                     self.model['title'] = data;
-                    self.listModel.save();
                 }
             });
         },

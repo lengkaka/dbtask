@@ -30,7 +30,7 @@ define(function(require, exports, module) {
         },
 
         render: function() {
-
+	    console.log(this.model.toJSON());
             this.$el.html(Template(this.model.toJSON()));
 
             this.input = this.$el.find('#new-task');
@@ -51,17 +51,13 @@ define(function(require, exports, module) {
         },
 
         renderTasks: function() {
-            var tasks = this.model.get('tasks');
-            if (_.isUndefined(tasks)) {
-                tasks = [];
-                this.model.set({tasks: tasks});
-            }
+            var tasks = this.model.getTasks();
             // 渲染任务列表
             _.each(tasks, this.addOne, this);
         },
 
         addOne: function(task) {
-            var view = new TaskView({model: task, listModel: this.model});
+            var view = new TaskView({model: task});
             this.$el.find('#task-list').append(view.el);
         },
 
@@ -78,14 +74,10 @@ define(function(require, exports, module) {
 
         addNewTask: function() {
 
-            var tasks = this.model.get('tasks');
-            if (_.isUndefined(tasks)) {
-                tasks = [];
-            }
+            var tasks = this.model.getTasks();
 
             // 增加一个空得task
             tasks.push({});
-            this.model.save({tasks: tasks});
 
             this.$el.find('#task-list').html('');
 

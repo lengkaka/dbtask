@@ -13,7 +13,16 @@ define(function(require, exports, module) {
         // Toggle the 'done' state
         toggle: function() {
             this.save({save: !this.get("done")});
-        }
+        },
+
+	getTasks: function() {
+	    var tasks = this.get('tasks');
+	    if (!tasks) {
+	        tasks = [];
+                this.set('tasks', tasks);
+	    }	
+            return this.get('tasks');
+	}
     });
 
     module.exports = TaskModel;

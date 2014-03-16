@@ -5,7 +5,7 @@ define(function(require, exports, module) {
         // Default attributes
         defaults: function() {
             return {
-                title: "empty task...",
+                placeHolder: "请输入任务内容",
                 done: false
             };
         },
