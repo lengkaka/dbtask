@@ -1,8 +1,7 @@
 var TASK = TASK || {};
 
-// 配置requirejs
+// config require.js
 require.config({
-
     baseUrl: 'www/script/lib/',
     paths: {
         'lib': '.',
