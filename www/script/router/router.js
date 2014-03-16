@@ -8,7 +8,7 @@ define(function(require, exports, module) {
         params: {},
 
         routes: {
-            '*path': 'home',
+            '*path': 'home'
         },
 
         // 一旦路由匹配上了，做些操作
