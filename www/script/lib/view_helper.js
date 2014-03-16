@@ -88,8 +88,26 @@ define(['handlebars'], function(Handlebars) {
               return options.inverse(this);
             }
           }
+      };
+
+      // Aliases
+      helpers.ifeq       = helpers.if_eq;
+      helpers.unlessEq   = helpers.unless_eq;
+      helpers.ifgt       = helpers.if_gt;
+      helpers.unlessGt   = helpers.unless_gt;
+      helpers.iflt       = helpers.if_lt;
+      helpers.unlessLt   = helpers.unless_lt;
+      helpers.ifgteq     = helpers.if_gteq;
+      helpers.unlessGtEq = helpers.unless_gteq;
+      helpers.ifLtEq     = helpers.if_lteq;
+      helpers.unlessLtEq = helpers.unless_lteq;
+
+      for (var helper in helpers) {
+          if (helpers.hasOwnProperty(helper)) {
+              Handlebars.registerHelper(helper, helpers[helper]);
+          }
       }
 
-        return _this;
+      return _this;
     })();
 });
