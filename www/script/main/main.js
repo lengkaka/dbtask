@@ -1,4 +1,5 @@
 var TASK = TASK || {};
+var appName = 'marketReport';
 
 // config require.js
 require.config({
@@ -9,12 +10,13 @@ require.config({
         'backbone': 'backbone/backbone',
         'localstorage': 'backbone/backbone.localStorage',
         'underscore': 'underscore/underscore',
-        'template': '../template',
         'handlebars': 'handlebars/1.0.0/handlebars',
         'handlebars.runtime': 'handlebars/1.0.0/handlebars.runtime',
-        'collection': '../collection',
-        'model': '../model',
-        'view': '../view',
+        'baseView': '../view',
+        'collection': '../collection/' + appName,
+        'model': '../model/' + appName,
+        'view': '../view/' + appName,
+        'template': '../template/' + appName,
         'component': '../component'
     },
     shim: {
@@ -35,11 +37,14 @@ require.config({
 define(function(require, exports, module) {
 
     var Router = require('www/script/router/router.js');
-    var HomeView = require('www/script/view/home.js');
-    var Tasks = require('collection/TaskListCollection');
+
+    //var HomeView = require('www/script/view/dbtask/home.js');
+    //var Tasks = require('collection/TaskListCollection');
+
+    var HomeView = require('www/script/view/marketReport/home.js');
 
     $(function() {
-        TASK.collection = new Tasks();
+       // TASK.collection = new Tasks();
        // TASK.collection.fetch();
 
 

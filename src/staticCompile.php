@@ -17,8 +17,8 @@ class Helper_StaticCompile {
      */
     public static function compile_jsTemplate() {
 
-        $source_file_dir = '../www/template/';
-        $compile_file_dir = '../www/script/template/';
+        $source_file_dir = '../www/template/marketReport/';
+        $compile_file_dir = '../www/script/template/marketReport/';
 
         //获取也就是扫描文件夹内的文件及文件夹名存入数组 $filesnames
         $filesnames = scandir($source_file_dir);
